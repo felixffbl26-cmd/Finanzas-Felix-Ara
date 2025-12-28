@@ -1,4 +1,15 @@
 streamlit
-pandas
-requests
 plotly
+requests
+pandas
+cloudinary
+Pillow
+python-dotenv
+geopy
+pytz
+openai-whisper
+scikit-learn
+numpy
+sounddevice
+scipy
+requests
